@@ -1,0 +1,6 @@
+source,account_id,object_id,metric,breakdown,window_start,window_end,timezone,currency,value,value_state,evidence_class,assumptions
+simulated_csv,sim_acct_harbor,sim_camp_late,spend,,2026-10-20T00:00:00.000Z,2026-10-25T00:00:00.000Z,America/New_York,USD,186.40,known,directly_observed,
+simulated_csv,sim_acct_harbor,sim_camp_late,impressions,,2026-10-20T00:00:00.000Z,2026-10-25T00:00:00.000Z,America/New_York,,24000,known,directly_observed,
+simulated_csv,sim_acct_harbor,sim_camp_late,streaming_clicks,,2026-10-20T00:00:00.000Z,2026-10-25T00:00:00.000Z,America/New_York,,42,known,directly_observed,
+simulated_csv,sim_acct_harbor,sim_camp_late,paid_clicks,,2026-10-20T00:00:00.000Z,2026-10-25T00:00:00.000Z,America/New_York,,,unknown,directly_observed,
+simulated_csv,sim_acct_harbor,sim_camp_late,stream_change,,2026-10-20T00:00:00.000Z,2026-10-25T00:00:00.000Z,America/New_York,,1200,known,aggregate_association,Artist-level total during the window. No holdout.

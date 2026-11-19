@@ -1,0 +1,32 @@
+1:"$Sreact.fragment"
+2:"/aftersound-preview/_next/static/chunks/339f1aztlbfo4.js"
+3:"/aftersound-preview/_next/static/chunks/1qjjguo9lkzyo.js"
+4:I[59222,["$2","$3"],"DemoBanner"]
+5:"$Sreact.suspense"
+6:I[13294,["$2","$3"],"PromoProvider"]
+7:I[39756,["$2","$3"],"default"]
+8:I[37457,["$2","$3"],"default"]
+9:"/aftersound-preview/_next/static/chunks/0juy2bh3ayovo.js"
+a:I[57358,["$9","$3"],"default"]
+c:"/aftersound-preview/_next/static/chunks/3m3heylp26-39.js"
+d:I[10024,["$c","$3"],"AppShell"]
+11:"/aftersound-preview/_next/static/chunks/2ob_f_s-kpu6t.js"
+12:"/aftersound-preview/_next/static/chunks/1lt3yqzz-dpdd.js"
+13:I[36120,["$11","$3","$12"],"Overview"]
+14:I[97367,["$2","$3"],"OutletBoundary"]
+16:"ViewportBoundary"
+17:I[97367,["$2","$3"],"$16"]
+19:"MetadataBoundary"
+1a:I[97367,["$2","$3"],"$19"]
+1c:I[68027,[],"default",1]
+:HL["/aftersound-preview/_next/static/chunks/3x7rmaip0vb-a.css","style"]
+f:X
+10:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$L13",null,{}],[["$","script","script-0",{"src":"/aftersound-preview/_next/static/chunks/2ob_f_s-kpu6t.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/aftersound-preview/_next/static/chunks/1lt3yqzz-dpdd.js","async":true,"nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}],"p":false,"v":null}}]]
+e:[["children",{"s":"dashboard","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q10"}]]
+b:[["children",{"s":"(app)","h":512,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/aftersound-preview/_next/static/chunks/3m3heylp26-39.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$La",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}],"p":false,"v":null},"c":"$Qe"}]]
+0:{"P":null,"c":["","dashboard",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aftersound-preview/_next/static/chunks/3x7rmaip0vb-a.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/aftersound-preview/_next/static/chunks/339f1aztlbfo4.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/aftersound-preview/_next/static/chunks/1qjjguo9lkzyo.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"h-full antialiased","children":["$","body",null,{"className":"min-h-full bg-white text-as-ink","children":[["$","a",null,{"href":"#main","className":"sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:z-50 focus:rounded-[10px] focus:bg-white focus:px-3 focus:py-2","children":"Skip to content"}],["$","$L4",null,{}],["$","$5",null,{"fallback":["$","p",null,{"className":"px-8 py-10 text-base text-as-ink-2","children":"Loading…"}],"children":["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$La",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]}]]}],"p":false,"v":null},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[null,["$","$L17",null,{"children":"$L18"}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$5",null,{"name":"Next.Metadata","children":"$L1b"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1c",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"oyoUjPh-_X43mh3d-vVNj"}
+f:C
+18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#000000"}]]
+1d:I[27201,["$2","$3"],"IconMark"]
+15:null
+1b:[["$","title","0",{"children":"Overview · aftersound ai"}],["$","meta","1",{"name":"description","content":"Promote your song with TikTok video ads. Preview your creative, choose your budget, and track clicks through to Spotify, all in one place. Interactive demo."}],["$","meta","2",{"name":"application-name","content":"aftersound ai"}],["$","link","3",{"rel":"manifest","href":"/aftersound-preview/brand/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"robots","content":"noindex, nofollow"}],["$","link","5",{"rel":"icon","href":"/aftersound-preview/brand/favicon.ico","sizes":"16x16 32x32 48x48"}],["$","link","6",{"rel":"icon","href":"/aftersound-preview/brand/favicon.svg","type":"image/svg+xml"}],["$","link","7",{"rel":"apple-touch-icon","href":"/aftersound-preview/brand/icon-180.png","sizes":"180x180"}],["$","$L1d","8",{}]]
